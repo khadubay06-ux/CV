@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="280" viewBox="0 0 400 280">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00b7ff" />
+      <stop offset="100%" stop-color="#9945ff" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="280" rx="36" fill="#0b1736" />
+  <circle cx="104" cy="140" r="64" fill="url(#grad)" opacity="0.95" />
+  <rect x="176" y="84" width="176" height="112" rx="24" fill="#171e3f" />
+  <path d="M 130 170 Q 172 230 240 172" fill="none" stroke="#ffffff" stroke-width="16" stroke-linecap="round" />
+  <text x="50%" y="260" text-anchor="middle" fill="#ffffff" font-family="Poppins, sans-serif" font-size="28" font-weight="700">Kha Nguyen</text>
+</svg>
